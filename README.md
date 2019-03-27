@@ -8,6 +8,7 @@ http://www.jazdosanjh.com/robofriends/
 
 ## Built With
 * React.js
+* Redux
 * JavaScript (ES6)
 * REST API (https://jsonplaceholder.typicode.com/)
 * Robot image API (https://robohash.org/)
